@@ -1,0 +1,11 @@
+main:
+  - title: "blog"
+    url: /_posts/
+  - title: "portfolio"
+    url: /_pages/portfolio/
+  - title: "who-am-i"
+    url: /_pages/whoami/
+  - title: "contact"
+    url: /_pages/contact/
+  
+  

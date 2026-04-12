@@ -1,17 +1,29 @@
 ---
-layout: page
+
 title: who-am-i
-permalink: /who-am-i/
+permalink: /_pages/whoami/
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
 ---
 
 # Who Am I?
 
 Pretty good question, considering you are viewing my website (hopefully for good reason!)
 I'm Benedetto Benzi, [PoliTo](https://www.polito.it) student, at his 2nd year of the BSc of Computer Engineering. 
+![A photo of myself with a RedBull Hat ](/assets/images/me_with_redbull_hat.jpg "Yes, this is me with a RedBull Hat"){: width="45%" }
+![A photo of myself with my motorcycle](/assets/images/me_with_my_motorcycle.jpg "Yes, this is me with my motorcycle"){: width="54%"} 
 
 ---
 ## Informal CV 
-To give a brief overview of what I've done during my academic years, here's an informal bullet point list. For something more formal, e-mail me specifically asking for my CV or check my LinkedIn ;) 
+To give a brief overview of what I've done during my academic years, here's an informal bullet point list. For something more formal, e-mail me specifically asking for my CV or check my [LinkedIn](www.linkedin.com/in/benedetto-francesco-benzi-46ab50280) ;) 
 - High School: [IIS Primo Levi] (https://www.istitutoprimolevi.edu.it), I've participated in Competitive Programming, specifically in both [OIS](https://squadre.olinfo.it) and [OII](https://olinfo.it), reaching Regional Selection in the latter :D 
 - University: Currently at [PoliTo](https://www.polito.it), I've been Member of [SCD - Squadra Corse Driverless](https://squadracorsedriverless.com) for a year, working on the development of algorithms for autonomous driving.
 - In the following year, I've been Division Leader of [Squadra Corse](https://squadracorse.webflow.io) for roughly 6 months, guiding the system integration and development of the autonomous hardware and software stack into the new vehicle's architecture. 

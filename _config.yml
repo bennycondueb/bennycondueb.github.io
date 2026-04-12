@@ -28,15 +28,16 @@ github_username:  bennycondueb
 linkedin_username: benedetto-francesco-benzi-46ab50280
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
-header_pages: 
-  - portfolio.md 
-  - whoami.md
-  - about.markdown
-  - index.markdown
+include: ["_pages"]
+
   
 
 # Exclude from processing.
