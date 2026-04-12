@@ -19,18 +19,25 @@
 # in the templates via {{ site.myvariable }}.
 
 title: bennycondueb
-email: b.benzi@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   bennycondueb's personal website for portfolio and leasure usage! 
   Here you will find my thoughts, my projects, some stuff for my CV, and so on :D 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  bennycondueb
+linkedin_username: benedetto-francesco-benzi-46ab50280
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages: 
+  - portfolio.md 
+  - whoami.md
+  - about.markdown
+  - index.markdown
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.

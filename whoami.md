@@ -1,7 +1,7 @@
 ---
 layout: page
-title: whoami
-permalink: /whoami/
+title: who-am-i
+permalink: /who-am-i/
 ---
 
 # Who Am I?
