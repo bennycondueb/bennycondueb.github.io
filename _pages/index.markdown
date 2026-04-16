@@ -5,7 +5,7 @@
 layout: home
 permalink: /
 author_profile: true
-title: "Welcome to bennycondueb's website!"
+title: "welcome to bennycondueb's website!"
 classes: 
     - landing
 
