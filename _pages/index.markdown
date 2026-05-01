@@ -63,13 +63,13 @@ text_blog_row:
 {% include feature_row id="intro" type="center" %}
 
 <div class="uniform-icons">
-  {% include feature_row id="portfolio_whoami_contact_row" %}
+  {% include feature_row.html id="portfolio_whoami_contact_row" %}
 </div>
 
 {% include feature_row id="text_portfolio_row" type="center"%}
 
 <div class="uniform-icons">
-  {% include feature_row id="portfolio_row" %}
+  {% include feature_row.html id="portfolio_row" %}
 </div>
 
 {% include feature_row id="text_blog_row" type="center" %}
