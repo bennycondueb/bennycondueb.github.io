@@ -1,5 +1,4 @@
 ---
-#TODO: find a way to put links into the images not only in the buttons, would look cool 
 #TODO: improve the buttons  
 
 title: "bennycondueb;"
