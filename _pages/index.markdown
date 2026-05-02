@@ -45,6 +45,11 @@ portfolio_row:
     title: "Visual Odometry"
     excerpt: "Visual Odometry implementation in Python using ROS2 Humble"
     url: _pages/portfolio/visual-odometry/
+  - image_path: assets/images/creativediaspora-man-3086657_1920 (1).png
+    alt: "eye open source image for the visual odometry page link"
+    title: "Managing a Software Team"
+    excerpt: "Description of my role as a Division Leader in Squadra Corse"
+    url: _pages/portfolio/managing-a-software-team/
 
 text_blog_row: 
     - excerpt: "# Blog posts Picks"

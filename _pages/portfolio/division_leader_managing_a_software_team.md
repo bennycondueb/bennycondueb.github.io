@@ -6,11 +6,15 @@ author_profile: true
 toc: true
 toc_sticky: true 
 
+#TODO: add personal takes on managing specifically a software team 
+#TODO: add what did I learn 
+#TODO: add possible mistakes 
+
 ---
 
 # Why? 
 The objective of this page is to explain the experience I've matured during my 
-(more or less) 6-7 months of being a __Division Leader__ inside 
+_(more or less)_ 6-7 months of being a __Division Leader__ inside 
 [Squadra Corse](https://squadracorse.webflow.io). 
 
 # What does "Division Leader" mean? 
