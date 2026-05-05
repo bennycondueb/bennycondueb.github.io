@@ -165,6 +165,24 @@ Depending on the day of the week, there could've been the following:
 Coffee breaks were not included but I can assure you I had lots of caffeine in 
 my blood any hour round.  
 
+# What did you learn as a "Division Leader"? 
+Saying that I've learned a lot of stuff it's not exhaustive. I'd divide this into some subsections. 
+
+## Not everyone wants to hold responsibilities 
+Seems easy to say, but even if someone joins the team, for how willing he/she/them looks, there's no guarantee that 
+he/she/them wants to hold responsiblities. Which is understandable, but if you are not willing to be responsible for the 
+work you are doing, what do you expect to get out of the team? 
+
+## People should be held accountable 
+Goes hand-in-hand with the above point, and the main reason was the following: as you are going to be 
+the one held accountable for the overall project, your peers should be held accountable for the 
+single parts of the project they are working on. Otherwise, you will try fill their gaps and you will lose 
+your mind over it. 
+Consider also the fact that you are as adult as them, and if these adults are not trustworthy, 
+why are they still in the team?  
+This doesn't mean that missing a deadline by a few days results in public execution, 
+it means that 
+
 # Why did you leave? 
 Tough topic, as everyone leaving a student team. \\
 I'd like to keep things short and I'd prefer not to explain this topic with too much detail. 
