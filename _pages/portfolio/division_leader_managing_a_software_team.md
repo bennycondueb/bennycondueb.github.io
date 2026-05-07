@@ -6,9 +6,9 @@ author_profile: true
 toc: true
 toc_sticky: true 
 
-#TODO: add personal takes on managing specifically a software team 
-#TODO: add what did I learn 
 #TODO: add possible mistakes 
+#TODO: add lines between sections 
+#TODO: check formatting
 
 ---
 
@@ -180,8 +180,34 @@ single parts of the project they are working on. Otherwise, you will try fill th
 your mind over it. 
 Consider also the fact that you are as adult as them, and if these adults are not trustworthy, 
 why are they still in the team?  
-This doesn't mean that missing a deadline by a few days results in public execution, 
-it means that 
+
+## Delegating is your saviour 
+The things that need to be done will just exponentially increase as time passes. 
+Without delegating tasks, you will just be overwhelmed. \\
+Personally, I tried delegating all the code-related tasks to focus as much possible on 
+bureaucracy, testing, and integration of the software inside the overall vehicle. \\
+Other than that, checking commits and pull requests became mandatory to ensure the code we were shipping 
+was respecting our coding guidelines 
+
+## GitHub is a godsend 
+*(NOT AN AD)* \\
+Having a platform that let's us manage issues, tasks and projects, checking the single code changes, 
+having testing pipelines for the code integrity, was **really** a godsend. Without a similar tool, 
+managing the team's work would've been unbearable. \\
+If you are not managing your projects through GitHub or GitLab or GitBucket or whatever, 
+this should be an hint for you to start using them. 
+
+# What mistakes did you make? 
+If i learned a lot in these months is also because I made mistakes. \\
+Looking back, these were probably the most significant ones. \\
+
+## Newcomers should be introduced gradually 
+Probably my biggest mistake, new students joining the team should be gradually introduced to the work 
+and to the techonologies that we used, without overwhelming them in the first 2/3 weeks. 
+The risk of burning them out before giving them a chance to let them express themselves is too high. 
+
+## The focus is on the project, not the people 
+
 
 # Why did you leave? 
 Tough topic, as everyone leaving a student team. \\

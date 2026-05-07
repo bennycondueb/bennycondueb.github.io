@@ -1,5 +1,6 @@
 ---
 #TODO: improve the buttons  
+#TODO: maybe add something about personal coding guidelines? blog post? 
 
 title: "bennycondueb;"
 layout: splash
