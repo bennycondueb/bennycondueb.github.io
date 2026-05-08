@@ -1,6 +1,6 @@
 main:
   - title: "blog"
-    url: /_posts/
+    url: /_pages/blog/index/
   - title: "portfolio"
     url: /_pages/portfolio/
   - title: "who-am-i"

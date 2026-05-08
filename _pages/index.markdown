@@ -1,5 +1,6 @@
 ---
 #TODO: improve the buttons  
+#TODO (later): improve portfolio page
 #TODO: maybe add something about personal coding guidelines? blog post? 
 
 title: "bennycondueb;"

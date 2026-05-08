@@ -1,6 +1,6 @@
 ---
 
-title: who-am-i
+title:  who-am-i
 permalink: /_pages/whoami/
 layout: single
 author_profile: true
@@ -11,13 +11,13 @@ author_profile: true
 
 ---
 
-# Who Am I?
-
 Pretty good question, considering you are viewing my website (hopefully for good reason!). \\
 I'm Benedetto Benzi, [PoliTo](https://www.polito.it) student, at his 2nd year of the BSc of Computer Engineering. 
 
 ---
-## Informal CV 
+
+# Informal CV 
+
 To give a brief overview of what I've done during my academic years, here's an informal bullet point list. For something more formal, e-mail me specifically asking for my CV or check my [LinkedIn](www.linkedin.com/in/benedetto-francesco-benzi-46ab50280) ;) 
 - High School: [IIS Primo Levi](https://www.istitutoprimolevi.edu.it), I've participated in Competitive Programming, specifically in both [OIS](https://squadre.olinfo.it) and [OII](https://olinfo.it), reaching Regional Selection in the latter :D 
 - University: Currently at [PoliTo](https://www.polito.it), I've been Member of [SCD - Squadra Corse Driverless](https://squadracorsedriverless.com) for a year, working on the development of algorithms for autonomous driving.
@@ -26,7 +26,8 @@ To give a brief overview of what I've done during my academic years, here's an i
 - I live by the mantra "Keep It Simple, Stupid" 
 
 ---
-## Hobbies and Personal Interests 
+
+# Hobbies and Personal Interests 
 As being human is not only about studying engineering, and my personality is not completely made up of zeroes and ones, I also have some personal hobbies! 
 - I'm an avid motorcycle rider. My Husqvarna Svartpilen 401 is treated with more care than anything that I own. She drives me everywhere every time Turin's weather is clement enough.  
 - I love music. I don't personally play any instrument, but listening to it is always a blessing. I'm fond of metal, rock, hip-hop and techno. I've personally fixed my dad's old hi-fi amplifier for using it myself. 

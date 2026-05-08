@@ -10,10 +10,14 @@ toc_sticky: true
 
 ---
 
+---
+
 # Why? 
 
 The reason "why" behind this project that I was assigned was the following: adding a new source of yaw estimation to our EKF to improve its performance, 
 considering that our IMU was subject to heavy drifting. 
+
+---
 
 # Step 1: Research 
 
@@ -33,6 +37,8 @@ Let's discuss the environment where this VO needed to be applied. \\
 Our Pipeline relied upon 2 independent cameras from [Allied Vision]() (NDR: I'm not endorsed nor sponsored by them) mounted below the LiDAR for estimating the cones color. \\
 These 2 cameras weren't stereo, nor the team was planning to change to stereo cameras, nor to switch to a single cameras, 
 which would've given different constraints during the development. 
+
+---
 
 # Step 2: Development 
 I'd say that this is the fun part for the developer, but not for anyone else who needs to endure it. \\
@@ -183,6 +189,8 @@ if isinstance(self.yaw, (int, float)) and isinstance(self.ground_truth_yaw, (int
         self._append_yaw_sample(yaw_vo, None, None)
 ```
 
+---
+
 # Step 3: Results
 
 Did the VO Node work? The answer is... kinda. \\
@@ -190,6 +198,8 @@ The performance of VO heavily depends on the FPS of the cameras, considering tha
 This goes against the 10fps our cameras were doing. The reason for our cameras doing **only** 10fps lies upon the fact that they are synchronized with the LiDAR scan, which had a frequency of 10Hz. \\ 
 With pre-recorded rosbags, we could see that the VO was approximating the yaw, but now with the precision required for blending it into our EKF. \\
 We also faced a problem when the cameras were already in movement and the VO node didn't start yet: the yaw zero would be skewed w.r.t. the actual yaw zero, making the SLAM of the pipeline fail. \\
+
+---
 
 # Step 4: Conclusions
 

@@ -6,16 +6,18 @@ author_profile: true
 toc: true
 toc_sticky: true 
 
-#TODO: add possible mistakes 
-#TODO: add lines between sections 
-#TODO: check formatting
+#TODO: check formatting + improve english 
 
 ---
+
+--- 
 
 # Why? 
 The objective of this page is to explain the experience I've matured during my 
 _(more or less)_ 6-7 months of being a __Division Leader__ inside 
 [Squadra Corse](https://squadracorse.webflow.io). 
+
+---
 
 # What does "Division Leader" mean? 
 Squadra Corse is divided into **Divisions**, i.e. different sub-teams 
@@ -26,6 +28,8 @@ of Squadra Corse, I suggest you to visit the [website](https://squadracorse.webf
 Their role is to supervise the ongoing work, decide and assign tasks, 
 manage the bureaucracy of the Team, refer to the Board and sometimes to the Stakeholders, 
 integrate their division work with the work of other divisions and so on.
+
+--- 
 
 # How did you become "Division Leader"? 
 The _usual_ way for a member to become division leader is roughly the following:
@@ -42,6 +46,8 @@ the two teams decided to stop "fighting eachother" and just **merge together**.
 This merging was defined with some conditions. \\
 One of such conditions was that I became the **Division Leader** of the new _"Autonomous"_ division, 
 whose job was to implement the **Autonomous software inside the new SC vehicle**. 
+
+---
 
 # What did you do as a "Division Leader"? 
 In this section, it's described most of the stuff I've learnt during my journey. 
@@ -165,6 +171,8 @@ Depending on the day of the week, there could've been the following:
 Coffee breaks were not included but I can assure you I had lots of caffeine in 
 my blood any hour round.  
 
+---
+
 # What did you learn as a "Division Leader"? 
 Saying that I've learned a lot of stuff it's not exhaustive. I'd divide this into some subsections. 
 
@@ -197,6 +205,8 @@ managing the team's work would've been unbearable. \\
 If you are not managing your projects through GitHub or GitLab or GitBucket or whatever, 
 this should be an hint for you to start using them. 
 
+---
+
 # What mistakes did you make? 
 If i learned a lot in these months is also because I made mistakes. \\
 Looking back, these were probably the most significant ones. \\
@@ -207,7 +217,22 @@ and to the techonologies that we used, without overwhelming them in the first 2/
 The risk of burning them out before giving them a chance to let them express themselves is too high. 
 
 ## The focus is on the project, not the people 
+Sounds very "harsh", but if you lose focus on the project, the risk of delaying deadlines, 
+or not reaching them, increases exponentially. For this reason, the first priority should always 
+be on the project. \\
+This means that, for how much your team is valuable, if the work isn't going straight 
+to the project, their work is basically a waste of time. 
 
+## Filling the gap by myself 
+If work is slacking behind, trying to patch by yourself all of the gaps it's just 
+going to destroy your mental health and your life outside the team project. 
+And by doing so, you lose productivity in your work. It's a dog eating its own tail. 
+And still, that's exactly what happened during the exam session. And, by trying to keep 
+everything together, I couldn't keep anything and still lost something behind. 
+The pressure was just too high and I felt that was the right choice. 
+With the knowledge that I have now, I know it wasn't.  
+
+---
 
 # Why did you leave? 
 Tough topic, as everyone leaving a student team. \\
