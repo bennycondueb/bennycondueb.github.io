@@ -17,3 +17,8 @@
   object-fit: contain; 
 }
 
+.feature__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Centra orizzontalmente i blocchi */
+}

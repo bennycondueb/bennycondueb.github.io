@@ -8,6 +8,19 @@ author_profile: true
 toc: true 
 toc_sticky: true
 
+author: 
+    name: "bennycondueb"
+    avatar: /assets/images/bb_avatar.png
+    bio: "eating pasta and going fasta"
+    location: "Italy"
+    links: 
+        - label: "GitHub"
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/bennycondueb"
+        - label: "LinkedIn"
+          icon: "fab fa-fw fa-linkedin"
+          url: "https://linkedin.com/in/benedetto-francesco-benzi-46ab50280"
+
 ---
 
 ---
