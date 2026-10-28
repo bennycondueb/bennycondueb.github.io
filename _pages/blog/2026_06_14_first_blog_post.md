@@ -5,6 +5,7 @@ permalink: /_pages/blog/2026_06_14_first_blog_post/
 layout: single
 author_profile: true
 toc: true
+toc_sticky: true
 
 ---
 
