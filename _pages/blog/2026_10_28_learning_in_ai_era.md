@@ -88,6 +88,28 @@ Heavily influenced by the video linked above, I wanted to give my two cents, to 
 
 ## You **NEED** to struggle
 [*No free lunch*](https://en.wikipedia.org/wiki/No_such_thing_as_a_free_lunch)  
-Learning is achieved through struggle, commonly stated as *exercise*, and active recall.  
-That's pretty much it. You need to struggle, understand why you are struggling, then repeat this struggle 
+Learning is achieved through **struggle**, commonly stated as *exercise*, and active recall.  
+That's pretty much it. You **need** to struggle, understand why you are struggling, then repeat this struggle 
 for a different topic, and repeat this loop up until you pass your exam.  
+Sometimes you will struggle more, sometimes you won't struggle at all.  
+But the more you get used to struggling, the **lighter** each different struggle will feel. 
+And sooner or later, studying will feel less like a chore and more like a stimulating activity. 
+Without struggle, you won't learn anything.  
+Hell, some people get by just like this, memorizing as much as possible hoping it's just enough to pass the exam
+without really learning anything. What looks like a shortcut, time and real world experience will reveal 
+it was just a **waste of time**.  
+
+## Try first, ask later
+The intense use of AI creates a so-called phenomenon of [*"illusion of competence"*](https://www.forbes.com/sites/shannonmckeen/2026/05/18/ai-is-creating-a-dangerous-illusion-of-competence/), where 
+users feel like they are learning, while AI is doing the latter struggle instead of the user.  
+The solution to this is pretty simple (and remarked multiple times in Prof. Cranmer video): **first try by yourself, then ask AI for the smallest hint possible when you are stuck**.  
+Give yourself a chance.  
+The human brain has been capable of doing gigantic things, such as making rocks think and communicate between them, send a man TO THE MOON, create the Linux kernel, and so on.  
+Asking directly for the correct answer to an AI is just a waste of your time and Earth's water. You are not directly learning and the AI is not helping you. 
+You are just delegating and postponing your struggle. 
+Even better, before asking an AI, if you have the chance to ask a human, (*like students in Computer Sciences Labs, ndr*) do it.
+Usually, if not most of the times, humans have more context, more understanding, and more compassion than an AI. 
+They also have empathy, which can help you overcome the academic struggle you are facing. They also use less water.      
+Is it so tough to believe in yourself and do something on your own before resorting to the comfort of an AI answer? 
+
+# Teaching in the AI Era
