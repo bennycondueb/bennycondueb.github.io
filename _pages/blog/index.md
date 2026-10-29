@@ -11,3 +11,5 @@ I don't have the gut to say that I will post regularly, my objective for this sp
 talk about stuff.  
 
 [First Blog Post!](/_pages/blog/2026_06_14_first_blog_post)
+
+[Learning in the AI Era](/_pages/blog/2026_10_28_learning_in_ai_era)
